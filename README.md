@@ -1,2 +1,3 @@
 # Shwe-Ayer
-This project is e-cormerce project.
+This project is E-commerce project.
+
